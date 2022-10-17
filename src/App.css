@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.form-control input{
+  width: 50%;
+  margin: 20px;
+}
+.btn {
+  margin: 20px;
+}
